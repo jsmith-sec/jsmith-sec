@@ -21,8 +21,8 @@ Five hands-on labs built on Apple Silicon with a focus on detection, incident re
 
 ## Skills
 
-`SIEM` `Log Analysis` `Threat Detection` `Malware Analysis` `Incident Response` `Vulnerability Assessment`  
-`Linux` `Python` `SQL` `AWS` `Azure` `Networking` `Wireshark` `PEStudio`
+`SIEM` `Log Analysis` `Threat Detection` `Malware Analysis` `Incident Response` `Vulnerability Assessment` `Digital Forensics` `Chain of Custody` `MITRE ATT&CK` `NIST SP 800-61`  
+`Linux` `Python` `SQL` `Networking` `Wireshark` `Splunk` `PEStudio` `AWS` `Azure`
 
 ---
 

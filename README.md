@@ -1,16 +1,37 @@
-## Hi there 👋
+# Josh Smith
+**Cybersecurity Graduate | CompTIA Security+ | SOC & Threat Analysis**
 
-<!--
-**jsmith-sec/jsmith-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.A.T. Cybersecurity, Collin College — May 2026
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Home SOC Lab Series
+
+Five hands-on labs built on Apple Silicon with a focus on detection, incident response, and threat analysis. Each lab simulates real-world scenarios using industry-standard tooling.
+
+| # | Lab | Focus | Repo |
+|---|---|---|---|
+| 1 | SOC/SIEM Detection | ELK Stack, log ingestion, alert tuning | [soc-home-lab](https://github.com/jsmith-sec/soc-home-lab) |
+| 2 | Incident Response Simulation | IR workflow, timeline reconstruction, forensic reporting | [incident-response-lab](https://github.com/jsmith-sec/incident-response-lab) |
+| 3 | Web Application Attack | Attack simulation, log analysis, detection rules | [web-app-attack-lab](https://github.com/jsmith-sec/web-app-attack-lab) |
+| 4 | Vulnerability Assessment | Greenbone/GVM scanning, risk prioritization | [vulnerability-assessment-lab](https://github.com/jsmith-sec/vulnerability-assessment-lab) |
+| 5 | Malware Analysis | Static analysis, PE imports, sandbox evasion documentation | [malware-analysis-lab](https://github.com/jsmith-sec/malware-analysis-lab) |
+
+---
+
+## Skills
+
+`SIEM` `Log Analysis` `Threat Detection` `Malware Analysis` `Incident Response` `Vulnerability Assessment`  
+`Linux` `Python` `SQL` `AWS` `Azure` `Networking` `Wireshark` `PEStudio`
+
+---
+
+## Certifications
+
+- CompTIA Security+
+
+---
+
+## Currently Working On
+
+- TryHackMe SOC Level 1 path

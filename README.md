@@ -32,6 +32,4 @@ Five hands-on labs built on Apple Silicon with a focus on detection, incident re
 
 ---
 
-## Currently Working On
 
-- TryHackMe SOC Level 1 path

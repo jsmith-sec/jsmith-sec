@@ -1,5 +1,5 @@
 # Josh Smith
-**Cybersecurity Graduate | CompTIA Security+ | SOC & Threat Analysis**
+**Cybersecurity Graduate | CompTIA Security+ **
 
 B.A.T. Cybersecurity, Collin College — May 2026
 

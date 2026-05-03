@@ -1,5 +1,5 @@
 # Josh Smith
-**Cybersecurity Graduate | CompTIA Security+ | SOC & Threat Analysis**
+**Cybersecurity Graduate | CompTIA Security+**
 
 B.A.T. Cybersecurity, Collin College — May 2026
 
@@ -31,8 +31,3 @@ Six hands-on labs built on Apple Silicon with a focus on detection, incident res
 
 - CompTIA Security+
 
----
-
-## Currently Working On
-
-- TryHackMe SOC Level 1 path

@@ -1,5 +1,5 @@
 # Josh Smith
-**Cybersecurity Graduate | CompTIA Security+**
+**Cybersecurity Graduate | CompTIA Security+ | SOC & Threat Analysis**
 
 B.A.T. Cybersecurity, Collin College — May 2026
 
@@ -7,7 +7,7 @@ B.A.T. Cybersecurity, Collin College — May 2026
 
 ## Home SOC Lab Series
 
-Five hands-on labs built on Apple Silicon with a focus on detection, incident response, and threat analysis. Each lab simulates real-world scenarios using industry-standard tooling.
+Six hands-on labs built on Apple Silicon with a focus on detection, incident response, and threat analysis. Each lab simulates real-world scenarios using industry-standard tooling.
 
 | # | Lab | Focus | Repo |
 |---|---|---|---|
@@ -16,12 +16,13 @@ Five hands-on labs built on Apple Silicon with a focus on detection, incident re
 | 3 | Web Application Attack | Attack simulation, log analysis, detection rules | [web-app-attack-lab](https://github.com/jsmith-sec/web-app-attack-lab) |
 | 4 | Vulnerability Assessment | Greenbone/GVM scanning, risk prioritization | [vulnerability-assessment-lab](https://github.com/jsmith-sec/vulnerability-assessment-lab) |
 | 5 | Malware Analysis | Static analysis, PE imports, sandbox evasion documentation | [malware-analysis-lab](https://github.com/jsmith-sec/malware-analysis-lab) |
+| 6 | Phishing Analysis | URL analysis, email header analysis, SPF/DKIM/DMARC, campaign correlation | [phishing-analysis-lab](https://github.com/jsmith-sec/phishing-analysis-lab) |
 
 ---
 
 ## Skills
 
-`SIEM` `Log Analysis` `Threat Detection` `Malware Analysis` `Incident Response` `Vulnerability Assessment` `Digital Forensics` `Chain of Custody` `MITRE ATT&CK` `NIST SP 800-61`  
+`SIEM` `Log Analysis` `Threat Detection` `Malware Analysis` `Incident Response` `Vulnerability Assessment` `Digital Forensics` `Chain of Custody` `Phishing Analysis` `Email Header Analysis` `MITRE ATT&CK` `NIST SP 800-61`  
 `Linux` `Python` `SQL` `Networking` `Wireshark` `Splunk` `PEStudio` `AWS` `Azure`
 
 ---
@@ -32,4 +33,6 @@ Five hands-on labs built on Apple Silicon with a focus on detection, incident re
 
 ---
 
+## Currently Working On
 
+- TryHackMe SOC Level 1 path

@@ -1,4 +1,5 @@
 # Josh Smith
+
 **Cybersecurity Graduate | CompTIA Security+**
 
 B.A.T. Cybersecurity, Collin College — May 2026
@@ -7,7 +8,7 @@ B.A.T. Cybersecurity, Collin College — May 2026
 
 ## Home SOC Lab Series
 
-Six hands-on labs built on Apple Silicon with a focus on detection, incident response, and threat analysis. Each lab simulates real-world scenarios using industry-standard tooling.
+Seven hands-on labs built on Apple Silicon, spanning both defensive security operations (detection, incident response, threat analysis) and offensive security (Active Directory attack paths). Each lab simulates real-world scenarios using industry-standard tooling.
 
 | # | Lab | Focus | Repo |
 |---|---|---|---|
@@ -17,17 +18,18 @@ Six hands-on labs built on Apple Silicon with a focus on detection, incident res
 | 4 | Vulnerability Assessment | Greenbone/GVM scanning, risk prioritization | [vulnerability-assessment-lab](https://github.com/jsmith-sec/vulnerability-assessment-lab) |
 | 5 | Malware Analysis | Static analysis, PE imports, sandbox evasion documentation | [malware-analysis-lab](https://github.com/jsmith-sec/malware-analysis-lab) |
 | 6 | Phishing Analysis | URL analysis, email header analysis, SPF/DKIM/DMARC, campaign correlation | [phishing-analysis-lab](https://github.com/jsmith-sec/phishing-analysis-lab) |
+| 7 | Active Directory Attack | Kerberoasting, AS-REP roasting, DCSync, pass-the-hash, BloodHound attack-path mapping | [AD-Lab](https://github.com/jsmith-sec/AD-Lab) |
 
 ---
 
 ## Skills
 
 `SIEM` `Log Analysis` `Threat Detection` `Malware Analysis` `Incident Response` `Vulnerability Assessment` `Digital Forensics` `Chain of Custody` `Phishing Analysis` `Email Header Analysis` `MITRE ATT&CK` `NIST SP 800-61`  
-`Linux` `Python` `SQL` `Networking` `Wireshark` `Splunk` `PEStudio` `AWS` `Azure`
+`Active Directory` `Kerberos Attacks` `Privilege Escalation` `Lateral Movement` `Pass-the-Hash` `Penetration Testing`  
+`Linux` `Python` `SQL` `Networking` `Wireshark` `Splunk` `PEStudio` `Impacket` `BloodHound` `Hashcat` `AWS` `Azure`
 
 ---
 
 ## Certifications
 
 - CompTIA Security+
-

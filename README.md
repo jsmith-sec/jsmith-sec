@@ -1,35 +1,31 @@
-# Josh Smith
+name: Generate Snake Animation
 
-**Cybersecurity Graduate | CompTIA Security+**
+on:
+  schedule:
+    # runs once a day; regenerates the snake with your latest contributions
+    - cron: "0 0 * * *"
+  workflow_dispatch:      # lets you run it manually from the Actions tab
+  push:
+    branches:
+      - main
 
-B.A.T. Cybersecurity, Collin College — May 2026
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-dark&color_snake=FF3333&color_dots=1a1a1a,5c0000,990000,ff3333,ffffff
 
----
-
-## Home SOC Lab Series
-
-Seven hands-on labs built on Apple Silicon, spanning both defensive security operations (detection, incident response, threat analysis) and offensive security (Active Directory attack paths). Each lab simulates real-world scenarios using industry-standard tooling.
-
-| # | Lab | Focus | Repo |
-|---|---|---|---|
-| 1 | SOC/SIEM Detection | ELK Stack, log ingestion, alert tuning | [soc-home-lab](https://github.com/jsmith-sec/soc-home-lab) |
-| 2 | Incident Response Simulation | IR workflow, timeline reconstruction, forensic reporting | [incident-response-lab](https://github.com/jsmith-sec/incident-response-lab) |
-| 3 | Web Application Attack | Attack simulation, log analysis, detection rules | [web-app-attack-lab](https://github.com/jsmith-sec/web-app-attack-lab) |
-| 4 | Vulnerability Assessment | Greenbone/GVM scanning, risk prioritization | [vulnerability-assessment-lab](https://github.com/jsmith-sec/vulnerability-assessment-lab) |
-| 5 | Malware Analysis | Static analysis, PE imports, sandbox evasion documentation | [malware-analysis-lab](https://github.com/jsmith-sec/malware-analysis-lab) |
-| 6 | Phishing Analysis | URL analysis, email header analysis, SPF/DKIM/DMARC, campaign correlation | [phishing-analysis-lab](https://github.com/jsmith-sec/phishing-analysis-lab) |
-| 7 | Active Directory Attack | Kerberoasting, AS-REP roasting, DCSync, pass-the-hash, BloodHound attack-path mapping | [AD-Lab](https://github.com/jsmith-sec/AD-Lab) |
-
----
-
-## Skills
-
-`SIEM` `Log Analysis` `Threat Detection` `Malware Analysis` `Incident Response` `Vulnerability Assessment` `Digital Forensics` `Chain of Custody` `Phishing Analysis` `Email Header Analysis` `MITRE ATT&CK` `NIST SP 800-61`  
-`Active Directory` `Kerberos Attacks` `Privilege Escalation` `Lateral Movement` `Pass-the-Hash` `Penetration Testing`  
-`Linux` `Python` `SQL` `Networking` `Wireshark` `Splunk` `PEStudio` `Impacket` `BloodHound` `Hashcat` `AWS` `Azure`
-
----
-
-## Certifications
-
-- CompTIA Security+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

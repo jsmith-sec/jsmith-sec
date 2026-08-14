@@ -86,38 +86,4 @@ Hey, I'm Joshua — a cybersecurity graduate focused on **security operations, d
 
 ![Security+](https://img.shields.io/badge/CompTIA_Security%2B-2F81F7?style=for-the-badge&logo=comptia&logoColor=white)
 
-</div>![NIST 800-61](https://img.shields.io/badge/NIST_800--61-2F81F7?style=flat-square)
-
-**Offensive / Adversary Emulation**
-
-![Active Directory](https://img.shields.io/badge/Active_Directory-0A2A66?style=flat-square)
-![Kerberos Attacks](https://img.shields.io/badge/Kerberos_Attacks-0A2A66?style=flat-square)
-![Privilege Escalation](https://img.shields.io/badge/Privilege_Escalation-0A2A66?style=flat-square)
-![Lateral Movement](https://img.shields.io/badge/Lateral_Movement-0A2A66?style=flat-square)
-![Pass-the-Hash](https://img.shields.io/badge/Pass--the--Hash-0A2A66?style=flat-square)
-
-**Tools & Platforms**
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,aws,azure,git,github&theme=dark" alt="skill icons" />
-
-</div>
-
----
-
-## 🎓 Certifications
-
-<div align="center">
-
-![Security+](https://img.shields.io/badge/CompTIA_Security%2B-2F81F7?style=for-the-badge&logo=comptia&logoColor=white)
-
 </div>

@@ -32,9 +32,9 @@ Hey, I'm Joshua — a cybersecurity graduate focused on **security operations, d
 | 1 | **SOC / SIEM Detection** | ELK Stack SIEM, custom detection rules, real-time alerting | [soc-home-lab](https://github.com/jsmith-sec/soc-home-lab) |
 | 2 | **Incident Response Simulation** | Full PICERL lifecycle, containment & recovery, chain-of-custody documentation | [incident-response-lab](https://github.com/jsmith-sec/incident-response-lab) |
 | 3 | **Web Application Attack** | SQLi / XSS / brute-force detection, Apache log analysis, Kibana rules | [web-app-attack-lab](https://github.com/jsmith-sec/web-app-attack-lab) |
-| 4 | **Vulnerability Assessment** | Greenbone/GVM vulnerability scanning, risk prioritization | [vulnerability-assessment-lab](https://github.com/jsmith-sec/vulnerability-assessment-lab) |
+| 4 | **Vulnerability Assessment** | Greenbone/OpenVAS (Docker) deployment, vulnerability scanning, OS fingerprinting | [vulnerability-assessment-lab](https://github.com/jsmith-sec/vulnerability-assessment-lab) |
 | 5 | **Malware Analysis** | Static/dynamic analysis, IOC extraction, MITRE ATT&CK mapping | [malware-analysis-lab](https://github.com/jsmith-sec/malware-analysis-lab) |
-| 6 | **Phishing Analysis** | Email header & URL analysis, SPF/DKIM/DMARC, campaign correlation | [phishing-analysis-lab](https://github.com/jsmith-sec/phishing-analysis-lab) |
+| 6 | **Phishing Analysis** | Email & URL analysis, SPF/DKIM/DMARC, IOC & campaign correlation | [phishing-analysis-lab](https://github.com/jsmith-sec/phishing-analysis-lab) |
 | 7 | **Active Directory Attack** | Attack chain (Kerberoasting → DCSync → pass-the-hash) mapped to Windows Event ID detections | [AD-Lab](https://github.com/jsmith-sec/AD-Lab) |
 
 ---
@@ -53,6 +53,40 @@ Hey, I'm Joshua — a cybersecurity graduate focused on **security operations, d
 ![Phishing Analysis](https://img.shields.io/badge/Phishing_Analysis-2F81F7?style=flat-square)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-2F81F7?style=flat-square)
 ![NIST 800-61](https://img.shields.io/badge/NIST_800--61-2F81F7?style=flat-square)
+
+**Offensive / Adversary Emulation**
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-0A2A66?style=flat-square)
+![Kerberos Attacks](https://img.shields.io/badge/Kerberos_Attacks-0A2A66?style=flat-square)
+![Privilege Escalation](https://img.shields.io/badge/Privilege_Escalation-0A2A66?style=flat-square)
+![Lateral Movement](https://img.shields.io/badge/Lateral_Movement-0A2A66?style=flat-square)
+![Pass-the-Hash](https://img.shields.io/badge/Pass--the--Hash-0A2A66?style=flat-square)
+
+**Tools & Platforms**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,aws,azure,git,github&theme=dark" alt="skill icons" />
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+![Security+](https://img.shields.io/badge/CompTIA_Security%2B-2F81F7?style=for-the-badge&logo=comptia&logoColor=white)
+
+</div>![NIST 800-61](https://img.shields.io/badge/NIST_800--61-2F81F7?style=flat-square)
 
 **Offensive / Adversary Emulation**
 

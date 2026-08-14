@@ -21,7 +21,7 @@
 
 ## `>_` whoami
 
-Hey, I'm Joshua — a cybersecurity graduate focused on **security operations, detection, and incident response**. Take a look around; my home SOC labs are below.
+Hey, I'm Joshua — a cybersecurity graduate focused on **security operations, detection, and incident response**. Please take a look around, my SOC lab detail are listed below.
 
 ---
 

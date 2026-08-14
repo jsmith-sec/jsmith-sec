@@ -29,13 +29,13 @@ Hey, I'm Joshua — a cybersecurity graduate focused on **security operations, d
 
 | # | Lab | Focus | Repo |
 |---|---|---|---|
-| 1 | **SOC / SIEM Detection** | ELK Stack, log ingestion, alert tuning | [soc-home-lab](https://github.com/jsmith-sec/soc-home-lab) |
-| 2 | **Incident Response Simulation** | IR workflow, timeline reconstruction, forensic reporting | [incident-response-lab](https://github.com/jsmith-sec/incident-response-lab) |
-| 3 | **Web Application Attack** | Attack simulation, log analysis, detection rules | [web-app-attack-lab](https://github.com/jsmith-sec/web-app-attack-lab) |
-| 4 | **Vulnerability Assessment** | Greenbone/GVM scanning, risk prioritization | [vulnerability-assessment-lab](https://github.com/jsmith-sec/vulnerability-assessment-lab) |
-| 5 | **Malware Analysis** | Static analysis, PE imports, sandbox evasion documentation | [malware-analysis-lab](https://github.com/jsmith-sec/malware-analysis-lab) |
-| 6 | **Phishing Analysis** | URL analysis, email header analysis, SPF/DKIM/DMARC, campaign correlation | [phishing-analysis-lab](https://github.com/jsmith-sec/phishing-analysis-lab) |
-| 7 | **Active Directory Attack** | Kerberoasting, AS-REP roasting, DCSync, pass-the-hash, BloodHound | [AD-Lab](https://github.com/jsmith-sec/AD-Lab) |
+| 1 | **SOC / SIEM Detection** | ELK Stack SIEM, custom detection rules, real-time alerting | [soc-home-lab](https://github.com/jsmith-sec/soc-home-lab) |
+| 2 | **Incident Response Simulation** | Full PICERL lifecycle, containment & recovery, chain-of-custody documentation | [incident-response-lab](https://github.com/jsmith-sec/incident-response-lab) |
+| 3 | **Web Application Attack** | SQLi / XSS / brute-force detection, Apache log analysis, Kibana rules | [web-app-attack-lab](https://github.com/jsmith-sec/web-app-attack-lab) |
+| 4 | **Vulnerability Assessment** | Greenbone/GVM vulnerability scanning, risk prioritization | [vulnerability-assessment-lab](https://github.com/jsmith-sec/vulnerability-assessment-lab) |
+| 5 | **Malware Analysis** | Static/dynamic analysis, IOC extraction, MITRE ATT&CK mapping | [malware-analysis-lab](https://github.com/jsmith-sec/malware-analysis-lab) |
+| 6 | **Phishing Analysis** | Email header & URL analysis, SPF/DKIM/DMARC, campaign correlation | [phishing-analysis-lab](https://github.com/jsmith-sec/phishing-analysis-lab) |
+| 7 | **Active Directory Attack** | Attack chain (Kerberoasting → DCSync → pass-the-hash) mapped to Windows Event ID detections | [AD-Lab](https://github.com/jsmith-sec/AD-Lab) |
 
 ---
 

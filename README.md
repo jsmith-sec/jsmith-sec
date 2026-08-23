@@ -21,7 +21,15 @@
 
 ## `>_` whoami
 
-Hey, I'm Joshua — a cybersecurity graduate focused on **security operations, detection, and incident response**. Please take a look around, my SOC lab details are listed below.
+Hey, I'm Joshua, a cybersecurity graduate focused on **security operations, detection, and incident response**. Take a look around, my home SOC lab series is below, with the SOC/SIEM Detection lab as the flagship.
+
+---
+
+## ⭐ Featured: SOC / SIEM Detection Lab
+
+A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **6 custom detection rules mapped to MITRE ATT&CK across 5 tactics** (initial access, execution, persistence, credential access, defense evasion), each validated against a live simulated attack chain. Includes tuning the Sysmon config to close a real endpoint-telemetry visibility gap and detecting LSASS credential dumping via access-mask analysis. Actively developed.
+
+➡️ **[jsmith-sec/soc-siem-lab](https://github.com/jsmith-sec/soc-siem-lab)**
 
 ---
 
@@ -29,13 +37,13 @@ Hey, I'm Joshua — a cybersecurity graduate focused on **security operations, d
 
 | # | Lab | Focus | Repo |
 |---|---|---|---|
-| 1 | **SOC / SIEM Detection** | ELK Stack SIEM, custom detection rules, real-time alerting | [soc-siem-lab](https://github.com/jsmith-sec/soc-siem-lab) |
+| 1 | **SOC / SIEM Detection** | Multi-host ELK + Fleet SIEM, Windows/Sysmon endpoint, 6 custom detections mapped to MITRE ATT&CK | [soc-siem-lab](https://github.com/jsmith-sec/soc-siem-lab) |
 | 2 | **Incident Response Simulation** | Full PICERL lifecycle, containment & recovery, chain-of-custody documentation | [incident-response-lab](https://github.com/jsmith-sec/incident-response-lab) |
 | 3 | **Web Application Attack** | SQLi / XSS / brute-force detection, Apache log analysis, Kibana rules | [web-app-attack-lab](https://github.com/jsmith-sec/web-app-attack-lab) |
 | 4 | **Vulnerability Assessment** | Greenbone/OpenVAS (Docker) deployment, vulnerability scanning, OS fingerprinting | [vulnerability-assessment-lab](https://github.com/jsmith-sec/vulnerability-assessment-lab) |
 | 5 | **Malware Analysis** | Static/dynamic analysis, IOC extraction, MITRE ATT&CK mapping | [malware-analysis-lab](https://github.com/jsmith-sec/malware-analysis-lab) |
 | 6 | **Phishing Analysis** | Email & URL analysis, SPF/DKIM/DMARC, IOC & campaign correlation | [phishing-analysis-lab](https://github.com/jsmith-sec/phishing-analysis-lab) |
-| 7 | **Active Directory Attack** | Attack chain (Kerberoasting → DCSync → pass-the-hash) mapped to Windows Event ID detections | [active-directory-lab](https://github.com/jsmith-sec/active-directory-lab) |
+| 7 | **Active Directory Attack** | Attack chain (Kerberoasting to DCSync to pass-the-hash) mapped to Windows Event ID detections | [active-directory-lab](https://github.com/jsmith-sec/active-directory-lab) |
 
 ---
 
@@ -47,6 +55,7 @@ Hey, I'm Joshua — a cybersecurity graduate focused on **security operations, d
 
 ![SIEM](https://img.shields.io/badge/SIEM-2F81F7?style=flat-square)
 ![Threat Detection](https://img.shields.io/badge/Threat_Detection-2F81F7?style=flat-square)
+![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-2F81F7?style=flat-square)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-2F81F7?style=flat-square)
 ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-2F81F7?style=flat-square)
 ![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-2F81F7?style=flat-square)
@@ -64,6 +73,9 @@ Hey, I'm Joshua — a cybersecurity graduate focused on **security operations, d
 
 **Tools & Platforms**
 
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-2F81F7?style=flat-square&logo=microsoft&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)

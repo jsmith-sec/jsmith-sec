@@ -15,6 +15,12 @@
   <img src="https://komarev.com/ghpvc/?username=jsmith-sec&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
+<!-- Connect row -->
+<p>
+  <a href="https://linkedin.com/in/jsmith-sec"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:josh00ryan@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 </div>
 
 ---

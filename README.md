@@ -10,7 +10,7 @@
 
 <!-- Badge row -->
 <p>
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-2F81F7?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+" />
+  <a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/7c79001c2f6a430ca624115e8d2ead22"><img src="https://img.shields.io/badge/CompTIA-Security%2B-2F81F7?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+" /></a>
   <img src="https://img.shields.io/badge/Location-Plano%2C%20TX-1a1a1a?style=for-the-badge&logo=googlemaps&logoColor=2F81F7" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=jsmith-sec&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
@@ -102,6 +102,6 @@ A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **6
 
 <div align="center">
 
-![Security+](https://img.shields.io/badge/CompTIA_Security%2B-2F81F7?style=for-the-badge&logo=comptia&logoColor=white)
+[![Security+](https://img.shields.io/badge/CompTIA_Security%2B-2F81F7?style=for-the-badge&logo=comptia&logoColor=white)](https://cp.certmetrics.com/comptia/en/public/verify/credential/7c79001c2f6a430ca624115e8d2ead22)
 
 </div>

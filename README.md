@@ -27,7 +27,7 @@
 
 ## `>_` whoami
 
-Hey, I'm Joshua, a cybersecurity graduate focused on **security operations, detection, and incident response**. Take a look around, my home SOC lab series is below, with the SOC/SIEM Detection lab as the flagship.
+Hey, I'm Joshua, a cybersecurity graduate focused on **security operations, detection, and incident response**. Take a look around, my home SOC labs are listed below.
 
 ---
 

@@ -33,7 +33,7 @@ Hey, I'm Joshua, a cybersecurity graduate focused on **security operations, dete
 
 ## ⭐ Featured: SOC / SIEM Detection Lab
 
-A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **6 custom detection rules mapped to MITRE ATT&CK across 5 tactics** (initial access, execution, persistence, credential access, defense evasion), each validated against a live simulated attack chain. Includes tuning the Sysmon config to close a real endpoint-telemetry visibility gap and detecting LSASS credential dumping via access-mask analysis. Actively developed.
+A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7 custom detection rules mapped to MITRE ATT&CK across 6 tactics** (initial access, execution, persistence, credential access, defense evasion, lateral movement), each validated against a live simulated attack chain. Includes tuning the Sysmon config to close a real endpoint-telemetry visibility gap, detecting LSASS credential dumping via access-mask analysis, and analyst triage writeups documenting the L1 workflow (including two false positives found and tuned out). Actively developed.
 
 ➡️ **[jsmith-sec/soc-siem-lab](https://github.com/jsmith-sec/soc-siem-lab)**
 
@@ -43,7 +43,7 @@ A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **6
 
 | # | Lab | Focus | Repo |
 |---|---|---|---|
-| 1 | **SOC / SIEM Detection** | Multi-host ELK + Fleet SIEM, Windows/Sysmon endpoint, 6 custom detections mapped to MITRE ATT&CK | [soc-siem-lab](https://github.com/jsmith-sec/soc-siem-lab) |
+| 1 | **SOC / SIEM Detection** | Multi-host ELK + Fleet SIEM, Windows/Sysmon endpoint, 7 custom detections mapped to MITRE ATT&CK | [soc-siem-lab](https://github.com/jsmith-sec/soc-siem-lab) |
 | 2 | **Incident Response Simulation** | Full PICERL lifecycle, containment & recovery, chain-of-custody documentation | [incident-response-lab](https://github.com/jsmith-sec/incident-response-lab) |
 | 3 | **Web Application Attack** | SQLi / XSS / brute-force detection, Apache log analysis, Kibana rules | [web-app-attack-lab](https://github.com/jsmith-sec/web-app-attack-lab) |
 | 4 | **Vulnerability Assessment** | Greenbone/OpenVAS (Docker) deployment, vulnerability scanning, OS fingerprinting | [vulnerability-assessment-lab](https://github.com/jsmith-sec/vulnerability-assessment-lab) |

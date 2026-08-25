@@ -27,13 +27,13 @@
 
 ## `>_` whoami
 
-Hey, I'm Joshua, a cybersecurity graduate focused on **security operations, detection, and incident response**. Take a look around, my SOC labs are listed below.
+I'm Joshua, a cybersecurity graduate focused on **security operations, detection, and incident response**. Take a look around, my SOC labs are listed below. Thanks for checking it out 
 
 ---
 
 ## ⭐ Featured: SOC / SIEM Detection Lab
 
-A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7 custom detection rules mapped to MITRE ATT&CK across 7 tactics** (initial access, execution, persistence, credential access, defense evasion, lateral movement), each validated against a live simulated attack chain. Includes tuning the Sysmon config to close a real endpoint-telemetry visibility gap, detecting LSASS credential dumping via access-mask analysis, and analyst triage writeups documenting the L1 workflow (including two false positives found and tuned out). Actively developed.
+A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7 custom detection rules mapped to MITRE ATT&CK across 6 tactics** (initial access, execution, persistence, credential access, defense evasion, lateral movement), each validated against a live simulated attack chain. Includes tuning the Sysmon config to close a real endpoint-telemetry visibility gap, detecting LSASS credential dumping via access-mask analysis, and analyst triage writeups documenting the L1 workflow (including two false positives found and tuned out). Actively developed.
 
 ➡️ **[jsmith-sec/soc-siem-lab](https://github.com/jsmith-sec/soc-siem-lab)**
 
@@ -105,3 +105,11 @@ A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7
 [![Security+](https://img.shields.io/badge/CompTIA_Security%2B-2F81F7?style=for-the-badge&logo=comptia&logoColor=white)](https://cp.certmetrics.com/comptia/en/public/verify/credential/7c79001c2f6a430ca624115e8d2ead22)
 
 </div>
+
+---
+
+## 🎯 What's Next
+ 
+- **CompTIA CySA+**: my next certification, once I've built more hands-on SOC experience
+- **Expanding the AD lab**: building the detection side 
+- **Cloud security lab**: extending detection into cloud environments

@@ -110,6 +110,6 @@ A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7
 
 ## 🎯 What's Next
  
-- **CompTIA CySA+**: my next certification, once I've built more hands-on SOC experience
+- **CompTIA CySA+**: my next certification, once I have enterprise SOC experience
 - **Expanding the AD lab**: building the detection side 
 - **Cloud security lab**: extending detection into cloud environments

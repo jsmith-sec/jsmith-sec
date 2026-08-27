@@ -57,38 +57,44 @@ A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7
 
 <div align="center">
 
-**Security Operations**
+<b>Security Operations</b>
 
-[![SIEM](https://img.shields.io/badge/SIEM-2F81F7?style=flat-square)](https://github.com/jsmith-sec)
-[![Threat Detection](https://img.shields.io/badge/Threat_Detection-2F81F7?style=flat-square)](https://github.com/jsmith-sec)
-[![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-2F81F7?style=flat-square)](https://github.com/jsmith-sec)
-[![Incident Response](https://img.shields.io/badge/Incident_Response-2F81F7?style=flat-square)](https://github.com/jsmith-sec)
-[![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-2F81F7?style=flat-square)](https://github.com/jsmith-sec)
-[![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-2F81F7?style=flat-square)](https://github.com/jsmith-sec)
-[![Phishing Analysis](https://img.shields.io/badge/Phishing_Analysis-2F81F7?style=flat-square)](https://github.com/jsmith-sec)
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-2F81F7?style=flat-square)](https://github.com/jsmith-sec)
-[![NIST 800-61](https://img.shields.io/badge/NIST_800--61-2F81F7?style=flat-square)](https://github.com/jsmith-sec)
+<p>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/SIEM-2F81F7?style=flat-square" alt="SIEM" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Threat_Detection-2F81F7?style=flat-square" alt="Threat Detection" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Detection_Engineering-2F81F7?style=flat-square" alt="Detection Engineering" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Incident_Response-2F81F7?style=flat-square" alt="Incident Response" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Malware_Analysis-2F81F7?style=flat-square" alt="Malware Analysis" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Digital_Forensics-2F81F7?style=flat-square" alt="Digital Forensics" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Phishing_Analysis-2F81F7?style=flat-square" alt="Phishing Analysis" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/MITRE_ATT%26CK-2F81F7?style=flat-square" alt="MITRE ATT&CK" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/NIST_800--61-2F81F7?style=flat-square" alt="NIST 800-61" /></a>
+</p>
 
-**Offensive / Adversary Emulation**
+<b>Offensive / Adversary Emulation</b>
 
-[![Active Directory](https://img.shields.io/badge/Active_Directory-0A2A66?style=flat-square)](https://github.com/jsmith-sec)
-[![Kerberos Attacks](https://img.shields.io/badge/Kerberos_Attacks-0A2A66?style=flat-square)](https://github.com/jsmith-sec)
-[![Privilege Escalation](https://img.shields.io/badge/Privilege_Escalation-0A2A66?style=flat-square)](https://github.com/jsmith-sec)
-[![Lateral Movement](https://img.shields.io/badge/Lateral_Movement-0A2A66?style=flat-square)](https://github.com/jsmith-sec)
-[![Pass-the-Hash](https://img.shields.io/badge/Pass--the--Hash-0A2A66?style=flat-square)](https://github.com/jsmith-sec)
+<p>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Active_Directory-0A2A66?style=flat-square" alt="Active Directory" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Kerberos_Attacks-0A2A66?style=flat-square" alt="Kerberos Attacks" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Privilege_Escalation-0A2A66?style=flat-square" alt="Privilege Escalation" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Lateral_Movement-0A2A66?style=flat-square" alt="Lateral Movement" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Pass--the--Hash-0A2A66?style=flat-square" alt="Pass-the-Hash" /></a>
+</p>
 
-**Tools & Platforms**
+<b>Tools & Platforms</b>
 
-[![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)](https://github.com/jsmith-sec)
-[![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)](https://github.com/jsmith-sec)
-[![Sysmon](https://img.shields.io/badge/Sysmon-2F81F7?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/jsmith-sec)
-[![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)](https://github.com/jsmith-sec)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://github.com/jsmith-sec)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/jsmith-sec)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/jsmith-sec)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/jsmith-sec)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://github.com/jsmith-sec)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://github.com/jsmith-sec)
+<p>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" alt="Elastic Stack" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Sysmon-2F81F7?style=flat-square&logo=microsoft&logoColor=white" alt="Sysmon" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" /></a>
+  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" /></a>
+</p>
 
 <br/>
 
@@ -102,7 +108,7 @@ A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7
 
 <div align="center">
 
-[![Security+](https://img.shields.io/badge/CompTIA_Security%2B-2F81F7?style=for-the-badge&logo=comptia&logoColor=white)](https://cp.certmetrics.com/comptia/en/public/verify/credential/7c79001c2f6a430ca624115e8d2ead22)
+<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/7c79001c2f6a430ca624115e8d2ead22"><img src="https://img.shields.io/badge/CompTIA_Security%2B-2F81F7?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+" /></a>
 
 </div>
 
@@ -112,66 +118,4 @@ A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7
 
 - **CompTIA CySA+**: my next certification, once I have enterprise SOC experience
 - **Expanding the AD lab**: building the detection side
-- **Cloud security lab**: extending detection into cloud environments
----
-
-## 🛠️ Skills & Tooling
-
-<div align="center">
-
-**Security Operations**
-
-![SIEM](https://img.shields.io/badge/SIEM-2F81F7?style=flat-square)
-![Threat Detection](https://img.shields.io/badge/Threat_Detection-2F81F7?style=flat-square)
-![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-2F81F7?style=flat-square)
-![Incident Response](https://img.shields.io/badge/Incident_Response-2F81F7?style=flat-square)
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-2F81F7?style=flat-square)
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-2F81F7?style=flat-square)
-![Phishing Analysis](https://img.shields.io/badge/Phishing_Analysis-2F81F7?style=flat-square)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-2F81F7?style=flat-square)
-![NIST 800-61](https://img.shields.io/badge/NIST_800--61-2F81F7?style=flat-square)
-
-**Offensive / Adversary Emulation**
-
-![Active Directory](https://img.shields.io/badge/Active_Directory-0A2A66?style=flat-square)
-![Kerberos Attacks](https://img.shields.io/badge/Kerberos_Attacks-0A2A66?style=flat-square)
-![Privilege Escalation](https://img.shields.io/badge/Privilege_Escalation-0A2A66?style=flat-square)
-![Lateral Movement](https://img.shields.io/badge/Lateral_Movement-0A2A66?style=flat-square)
-![Pass-the-Hash](https://img.shields.io/badge/Pass--the--Hash-0A2A66?style=flat-square)
-
-**Tools & Platforms**
-
-![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
-![Sysmon](https://img.shields.io/badge/Sysmon-2F81F7?style=flat-square&logo=microsoft&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,aws,azure,git,github&theme=dark" alt="skill icons" />
-
-</div>
-
----
-
-## 🎓 Certifications
-
-<div align="center">
-
-[![Security+](https://img.shields.io/badge/CompTIA_Security%2B-2F81F7?style=for-the-badge&logo=comptia&logoColor=white)](https://cp.certmetrics.com/comptia/en/public/verify/credential/7c79001c2f6a430ca624115e8d2ead22)
-
-</div>
-
----
-
-## 🎯 What's Next
- 
-- **CompTIA CySA+**: my next certification, once I have enterprise SOC experience
-- **Expanding the AD lab**: building the detection side 
 - **Cloud security lab**: extending detection into cloud environments

@@ -25,13 +25,13 @@
 
 ---
 
-## `>_` whoami
+<h3 align="center"><code>&gt;_</code> whoami</h3>
 
-Cybersecurity graduate focused on **security operations, detection, and incident response**. My SOC labs are listed below. I appreciate you stopping by, feel free to reach out.
+Cybersecurity graduate focused on **security operations, detection, and incident response**. Take a look around, my SOC labs are listed below. Thanks for stopping by, and feel free to reach out.
 
 ---
 
-## ⭐ Featured: SOC / SIEM Detection Lab
+<h3 align="center">⭐ Featured: SOC / SIEM Detection Lab</h3>
 
 A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7 custom detection rules mapped to MITRE ATT&CK across 6 tactics** (initial access, execution, persistence, credential access, defense evasion, lateral movement), each validated against a live simulated attack chain. Includes tuning the Sysmon config to close a real endpoint-telemetry visibility gap, detecting LSASS credential dumping via access-mask analysis, and analyst triage writeups documenting the L1 workflow (including two false positives found and tuned out), a SOC KPI dashboard, and threat-intelligence IOC enrichment. Actively developed.
 
@@ -39,7 +39,7 @@ A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7
 
 ---
 
-## 🧪 Home SOC Lab Series
+<h3 align="center">🧪 Home SOC Lab Series</h3>
 
 | # | Lab | Focus | Repo |
 |---|---|---|---|
@@ -53,7 +53,7 @@ A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7
 
 ---
 
-## 🛠️ Skills & Tooling
+<h3 align="center">🛠️ Skills &amp; Tooling</h3>
 
 <div align="center">
 
@@ -102,7 +102,7 @@ A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7
 
 ---
 
-## 🎓 Certifications
+<h3 align="center">🎓 Certifications</h3>
 
 <div align="center">
 
@@ -112,63 +112,9 @@ A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7
 
 ---
 
-## 🎯 What's Next
+<h3 align="center">🎯 What's Next</h3>
 
 - **TryHackMe SAL1 (SOC Level 1)**: working toward the practical SOC analyst certification
-- **CompTIA CySA+**: my next certification, once I have enterprise SOC experience
-- **Expanding the AD lab**: building the detection side
-- **Cloud security lab**: extending detection into cloud environments  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Detection_Engineering-2F81F7?style=flat-square" alt="Detection Engineering" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Incident_Response-2F81F7?style=flat-square" alt="Incident Response" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Malware_Analysis-2F81F7?style=flat-square" alt="Malware Analysis" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Digital_Forensics-2F81F7?style=flat-square" alt="Digital Forensics" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Phishing_Analysis-2F81F7?style=flat-square" alt="Phishing Analysis" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/MITRE_ATT%26CK-2F81F7?style=flat-square" alt="MITRE ATT&CK" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/NIST_800--61-2F81F7?style=flat-square" alt="NIST 800-61" /></a>
-</p>
-
-<b>Offensive / Adversary Emulation</b>
-
-<p>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Active_Directory-0A2A66?style=flat-square" alt="Active Directory" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Kerberos_Attacks-0A2A66?style=flat-square" alt="Kerberos Attacks" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Privilege_Escalation-0A2A66?style=flat-square" alt="Privilege Escalation" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Lateral_Movement-0A2A66?style=flat-square" alt="Lateral Movement" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Pass--the--Hash-0A2A66?style=flat-square" alt="Pass-the-Hash" /></a>
-</p>
-
-<b>Tools & Platforms</b>
-
-<p>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" alt="Elastic Stack" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Sysmon-2F81F7?style=flat-square&logo=microsoft&logoColor=white" alt="Sysmon" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
-</p>
-
-<br/>
-
-<a href="https://github.com/jsmith-sec"><img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,github&theme=dark" alt="skill icons" /></a>
-
-</div>
-
----
-
-## 🎓 Certifications
-
-<div align="center">
-
-<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/7c79001c2f6a430ca624115e8d2ead22"><img src="https://img.shields.io/badge/CompTIA_Security%2B-2F81F7?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+" /></a>
-
-</div>
-
----
-
-## 🎯 What's Next
-
 - **CompTIA CySA+**: my next certification, once I have enterprise SOC experience
 - **Expanding the AD lab**: building the detection side
 - **Cloud security lab**: extending detection into cloud environments

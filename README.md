@@ -31,9 +31,9 @@ Cybersecurity graduate focused on **security operations, detection, and incident
 
 ---
 
-## ⭐ SOC / SIEM Detection Lab
+## ⭐ Featured: SOC / SIEM Detection Lab
 
-A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7 custom detection rules mapped to MITRE ATT&CK across 6 tactics** (initial access, execution, persistence, credential access, defense evasion, lateral movement), each validated against a live simulated attack chain. Includes tuning the Sysmon config to close a real endpoint-telemetry visibility gap, detecting LSASS credential dumping via access-mask analysis, and analyst triage writeups documenting the L1 workflow (including two false positives found and tuned out). Actively developed.
+A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7 custom detection rules mapped to MITRE ATT&CK across 6 tactics** (initial access, execution, persistence, credential access, defense evasion, lateral movement), each validated against a live simulated attack chain. Includes tuning the Sysmon config to close a real endpoint-telemetry visibility gap, detecting LSASS credential dumping via access-mask analysis, and analyst triage writeups documenting the L1 workflow (including two false positives found and tuned out), a SOC KPI dashboard, and threat-intelligence IOC enrichment. Actively developed.
 
 ➡️ **[jsmith-sec/soc-siem-lab](https://github.com/jsmith-sec/soc-siem-lab)**
 
@@ -49,7 +49,7 @@ A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7
 | 4 | **Vulnerability Assessment** | Greenbone/OpenVAS (Docker) deployment, vulnerability scanning, OS fingerprinting | [vulnerability-assessment-lab](https://github.com/jsmith-sec/vulnerability-assessment-lab) |
 | 5 | **Malware Analysis** | Static/dynamic analysis, IOC extraction, MITRE ATT&CK mapping | [malware-analysis-lab](https://github.com/jsmith-sec/malware-analysis-lab) |
 | 6 | **Phishing Analysis** | Email & URL analysis, SPF/DKIM/DMARC, IOC & campaign correlation | [phishing-analysis-lab](https://github.com/jsmith-sec/phishing-analysis-lab) |
-| 7 | **Active Directory Attack** | Attack chain (Kerberoasting to DCSync to pass-the-hash) mapped to Windows Event ID detections | [active-directory-lab](https://github.com/jsmith-sec/active-directory-lab) |
+| 7 | **Active Directory Attack & Defense** | Attack chain (Kerberoasting to DCSync to pass-the-hash) mapped to Windows Event ID detections | [active-directory-lab](https://github.com/jsmith-sec/active-directory-lab) |
 
 ---
 
@@ -92,13 +92,11 @@ A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7
   <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /></a>
   <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" /></a>
-  <a href="https://github.com/jsmith-sec"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" /></a>
 </p>
 
 <br/>
 
-<a href="https://github.com/jsmith-sec"><img src="https://skillicons.dev/icons?i=linux,python,bash,docker,aws,azure,git,github&theme=dark" alt="skill icons" /></a>
+<a href="https://github.com/jsmith-sec"><img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,github&theme=dark" alt="skill icons" /></a>
 
 </div>
 

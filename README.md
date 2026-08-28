@@ -27,7 +27,7 @@
 
 ## `>_` whoami
 
-Cybersecurity graduate focused on **security operations, detection, and incident response**. Take a look around, my SOC labs are listed below. Thanks for stopping by, and feel free to reach out.
+Cybersecurity graduate focused on **security operations, detection, and incident response**. Take a look around, my SOC labs are listed below. I appreciate you stopping by, feel free to reach out.
 
 ---
 

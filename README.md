@@ -33,7 +33,7 @@ Cybersecurity graduate focused on **security operations, detection, and incident
 
 ---
 
-<h3 align="center">⭐ SOC / SIEM Detection Lab</h3>
+<h3 align="center">🛡️ SOC / SIEM Detection Lab</h3>
 
 <div align="left">
 

@@ -27,7 +27,7 @@
 
 <h3 align="center"><code>&gt;_</code> whoami</h3>
 
-Cybersecurity graduate focused on **security operations, detection, and incident response**. My SOC labs are listed below. They span detection engineering, incident response, malware and phishing analysis, and Active Directory attack and defense. I appreciate you stopping by, feel free to reach out!
+Cybersecurity graduate focused on **security operations, detection, and incident response**. I learn by building. Each lab below recreates the environment and workflow of a real SOC so I can practice the work itself, standing up SIEMs, writing detections, triaging alerts, and investigating incidents. They span detection engineering, incident response, malware and phishing analysis, and Active Directory attack and defense. I appreciate you stopping by, feel free to reach out!
 
 ---
 

@@ -41,11 +41,11 @@ A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7
 
 <div align="left">
   
-➡️ **[jsmith-sec/soc-siem-lab](https://github.com/jsmith-sec/soc-siem-lab)**
+**[jsmith-sec/soc-siem-lab](https://github.com/jsmith-sec/soc-siem-lab)**
 
 ---
 
-<h3 align="center">🧪 Home SOC Lab Series</h3>
+<h3 align="center"> Home SOC Lab Series</h3>
 
 | # | Lab | Focus | Repo |
 |---|---|---|---|

@@ -21,25 +21,13 @@
   <a href="mailto:josh00ryan@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-</div>
-
 ---
 
 <h3 align="center"><code>&gt;_</code> whoami</h3>
 
-<div align="center">
+<div align="left">
 
-Cybersecurity graduate focused on **security operations, detection, and incident response**. I learn by building. 
-
-Each lab below recreates the environment and workflow of a  real SOC so I can practice the work itself, 
-
-standing up SIEMs, writing detections, triaging alerts, and investigating incidents. 
-
-They span detection engineering, incident response, malware and 
-
-phishing analysis, and Active Directory attack and defense. 
-
-I appreciate you stopping by, feel free to reach out!
+Cybersecurity graduate focused on **security operations, detection, and incident response**. I learn by building. Each lab below recreates the environment and workflow of a  real SOC so I can practice the work itself, standing up SIEMs, writing detections, triaging alerts, and investigating incidents. They span detection engineering, incident response, malware and phishing analysis, and Active Directory attack and defense. I appreciate you stopping by, feel free to reach out!
 
 </div>
 
@@ -47,11 +35,11 @@ I appreciate you stopping by, feel free to reach out!
 
 <h3 align="center">⭐ SOC / SIEM Detection Lab</h3>
 
-<div align="center">
+<div align="left">
 
-A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7 custom detection rules mapped to MITRE ATT&CK across 6 tactics** (initial access, execution, persistence, credential access, defense evasion, lateral movement), each validated against a live simulated attack chain. Includes tuning the Sysmon config to close a real endpoint-telemetry visibility gap, detecting LSASS credential dumping via access-mask analysis, and analyst triage writeups documenting the L1 workflow (including two false positives found and tuned out), a SOC KPI dashboard, and threat-intelligence IOC enrichment.
+A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7 custom detection rules mapped to MITRE ATT&CK across 6 tactics**, each validated against a live simulated attack chain. Includes tuning the Sysmon config to close a real endpoint-telemetry visibility gap, detecting LSASS credential dumping via access-mask analysis, and 4 analyst triage writeups documenting the L1 workflow, building a SOC KPI dashboard, and enhacning of IOC threat intelligence.
 
-<div align="center">
+<div align="left">
   
 ➡️ **[jsmith-sec/soc-siem-lab](https://github.com/jsmith-sec/soc-siem-lab)**
 

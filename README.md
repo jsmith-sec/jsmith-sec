@@ -125,11 +125,21 @@ A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7
 
 <div align="center">
 
+**2026 Goals**
+
 | Goal | Status |
 |:--|:--:|
 | **TryHackMe SAL1** (SOC Level 1 certification) | ![in progress](https://img.shields.io/badge/in_progress-2F81F7?style=flat-square) |
-| **CompTIA CySA+** (after enterprise SOC experience) | ![planned](https://img.shields.io/badge/planned-8B949E?style=flat-square) |
 | **AD lab detection layer** (blue-team build-out) | ![in progress](https://img.shields.io/badge/in_progress-2F81F7?style=flat-square) |
 | **Cloud security lab** (detection in the cloud) | ![planned](https://img.shields.io/badge/planned-8B949E?style=flat-square) |
 
+**2027 Goals**
+
+| Goal | Status |
+|:--|:--:|
+| **CompTIA CySA+** (after enterprise SOC experience) | ![planned](https://img.shields.io/badge/planned-8B949E?style=flat-square) |
+
+
 </div>
+
+

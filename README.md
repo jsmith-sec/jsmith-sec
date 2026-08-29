@@ -27,14 +27,32 @@
 
 <h3 align="center"><code>&gt;_</code> whoami</h3>
 
-Cybersecurity graduate focused on **security operations, detection, and incident response**. I learn by building. Each lab below recreates the environment and workflow of a real SOC so I can practice the work itself, standing up SIEMs, writing detections, triaging alerts, and investigating incidents. They span detection engineering, incident response, malware and phishing analysis, and Active Directory attack and defense. I appreciate you stopping by, feel free to reach out!
+<div align="center">
+
+Cybersecurity graduate focused on **security operations, detection, and incident response**. I learn by building. 
+
+Each lab below recreates the environment and workflow of a  real SOC so I can practice the work itself, 
+
+standing up SIEMs, writing detections, triaging alerts, and investigating incidents. 
+
+They span detection engineering, incident response, malware and 
+
+phishing analysis, and Active Directory attack and defense. 
+
+I appreciate you stopping by, feel free to reach out!
+
+</div>
 
 ---
 
 <h3 align="center">⭐ SOC / SIEM Detection Lab</h3>
 
+<div align="center">
+
 A multi-host home SOC on the Elastic Stack with a Windows + Sysmon endpoint. **7 custom detection rules mapped to MITRE ATT&CK across 6 tactics** (initial access, execution, persistence, credential access, defense evasion, lateral movement), each validated against a live simulated attack chain. Includes tuning the Sysmon config to close a real endpoint-telemetry visibility gap, detecting LSASS credential dumping via access-mask analysis, and analyst triage writeups documenting the L1 workflow (including two false positives found and tuned out), a SOC KPI dashboard, and threat-intelligence IOC enrichment.
 
+<div align="center">
+  
 ➡️ **[jsmith-sec/soc-siem-lab](https://github.com/jsmith-sec/soc-siem-lab)**
 
 ---
